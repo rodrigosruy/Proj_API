@@ -1,7 +1,7 @@
 # Sistemas Distribuídos
-Murilo Darce Borges Silva - 24.122.031-8  
-Nicolas Costa Coppola de Moraes - 22.122.099-9  
-Rodrigo Simões Ruy - 24.122.092-0  
+Nicolas Costa Coppola de Moraes - 22.122.099-9  (Responsável pela implementação do Banco de Dados para armazenar as conversas, posts e seguidores)
+Rodrigo Simões Ruy - 24.122.092-0               (Responsável pela implementação da lógica da API)
+Murilo Darce Borges Silva - 24.122.031-8        (Responsável pelas imagens no README)
 
 # Afazeres
 * O projeto deve ser desenvolvido usando qualquer biblioteca de comunicação (e.g., ZeroMQ, gRPC, OpenMPI) e com pelo menos 3 linguagens diferentes (e.g., Python, Java, C, C++, JavaScript ou TypeScript, Go, Rust, Zig, Elixir, Gleam, Erlang...);
