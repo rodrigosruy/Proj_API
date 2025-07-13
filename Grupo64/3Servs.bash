@@ -1,0 +1,6 @@
+bash -c "./clienteFINAL.exe"
+bash -c "python cliente.py"
+bash -c "python loadbalancer.py"
+bash -c "python servidor.py"
+bash -c "python servidor.py"
+bash -c "python servidor.py"
